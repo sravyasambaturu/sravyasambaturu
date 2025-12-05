@@ -33,6 +33,12 @@ DevOps & Cloud Engineer with 4+ years of experience in automating cloud infrastr
 
 ---
 
+## 🌱 Memberships & Community
+- **WiCyS:** Women in Cybersecurity Member  
+- **CodePath:** DS/Algo Track Student Member 
+
+---
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sravyasa)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sravyasambaturu)  
