@@ -14,8 +14,8 @@ I'm a DevOps Engineer with **5 years of experience** in automating, scaling, and
 ✔ Passionate about **DevOps, cloud computing**  
 
 ## 📫 Connect with Me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sravyasambaturu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-github-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sravyasa/)  
+[![Email](https://img.shields.io/badge/Email-sravya.sambaturu75@gmail.com-red?logo=gmail&logoColor=white)](mailto:sravya.sambaturu75@gmail.com) 
 
 🌟 **Let's innovate together!** 🚀  
 
