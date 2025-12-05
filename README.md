@@ -1,36 +1,40 @@
 
-# Hi there, I'm Sravya Sambaturu! 👋  
+# Hi, I'm Venkata Sai Sravya Sambaturu 👋
 
-🚀 **DevOps Engineer | Graduate Student**  
+**DevOps & Cloud Engineer | Graduate Student | AI/ML Enthusiast**
 
-I'm a DevOps Engineer with **5 years of experience** in automating, scaling, and optimizing cloud infrastructure. Currently, I'm pursuing my **Master’s in Computer Science and Information Systems** at **University of Michigan-Flint** to deepen my expertise in software engineering and data-driven technologies.  
+## 🌟 Professional Summary
+DevOps & Cloud Engineer with 4+ years of experience in automating cloud infrastructure and CI/CD pipelines. Skilled in **AWS, GCP, Kubernetes, Terraform**, and **AI/ML**, building resilient cloud-native solutions.
 
-## 🌱 What I’m Working On:  
-🔹 Expanding my skills in **Python, Cloud, DevOps and AI Development**  
-🔹 Exploring **Kubernetes, CI/CD pipelines, and cloud automation**  
+---
 
-## 💡 My Background:  
-✔ Previously worked at **Amazon, TCS & Techolution**, specializing in cloud infrastructure, data and automation. 
-✔ Passionate about **DevOps, cloud computing**  
+## 🎓 Education
+**University of Michigan-Flint, MI – USA**  
+*M.S. in Computer Science and Information Systems* | GPA: 4.0/4.0  
 
-## 📫 Connect with Me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sravyasa/)  
-[![Email](https://img.shields.io/badge/Email-sravya.sambaturu75@gmail.com-red?logo=gmail&logoColor=white)](mailto:sravya.sambaturu75@gmail.com) 
+**Vignan Institute of Technology and Science, Telangana, India**  
+*Bachelor of Technology in Mechanical Engineering*  
 
-🌟 **Let's innovate together!** 🚀  
+---
 
+## 💼 Work Experience
+**University of Michigan Flint** – Graduate Student Research Assistant  
+**London Stock Exchange Group via TCS** – DevOps Engineer  
+**Techolution** – GCP DevOps Engineer  
+**Amazon Development Centre** – Machine Learning Data Associate  
 
-<!--
-**sravyasambaturu/sravyasambaturu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming:** Python, SQL, Java, Shell, Linux  
+- **DevOps & Cloud:** AWS, GCP, Terraform, Docker, Kubernetes, CI/CD  
+- **Monitoring & Security:** Grafana, Prometheus, IAM, SonarQube  
+- **AI/ML:** Vertex AI, MLOps, Gen AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sravyasa)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sravyasambaturu)  
+[![Email](https://img.shields.io/badge/Email-sravya.sambaturu75@gmail.com-red?logo=gmail&logoColor=white)](mailto:sravya.sambaturu75@gmail.com)
+
