@@ -10,7 +10,7 @@ DevOps & Cloud Engineer with 4+ years of experience in automating cloud infrastr
 
 ## 🎓 Education
 **University of Michigan-Flint, MI – USA**  
-*M.S. in Computer Science and Information Systems* | GPA: 4.0/4.0  
+*M.S. in Computer Science and Information Systems* 
 
 **Vignan Institute of Technology and Science, Telangana, India**  
 *Bachelor of Technology in Mechanical Engineering*  
